@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Guru/AndroidStudioProjects/VisionV4/app/.cxx/Debug/2e1v6x66/arm64-v8a",
+  "command": "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Guru/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolo26ncnn_EXPORTS -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/ncnn/arm64-v8a/include -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/ncnn/arm64-v8a/include/ncnn -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\yolo26ncnn.dir\\yolo.cpp.o -c C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\yolo.cpp",
+  "file": "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\yolo.cpp"
+},
+{
+  "directory": "C:/Users/Guru/AndroidStudioProjects/VisionV4/app/.cxx/Debug/2e1v6x66/arm64-v8a",
+  "command": "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android26 --sysroot=C:/Users/Guru/AppData/Local/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolo26ncnn_EXPORTS -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/ncnn/arm64-v8a/include -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/ncnn/arm64-v8a/include/ncnn -IC:/Users/Guru/AndroidStudioProjects/VisionV4/app/src/main/jni/opencv-mobile-4.10.0-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\yolo26ncnn.dir\\yolo26ncnn.cpp.o -c C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\yolo26ncnn.cpp",
+  "file": "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\yolo26ncnn.cpp"
+}
+]

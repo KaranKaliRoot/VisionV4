@@ -1,0 +1,14 @@
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\CMakeLists.txt
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\glslang\glslang-config-version.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\glslang\glslang-config.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\glslang\glslang-targets-release.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\glslang\glslang-targets.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\ncnn\ncnn-release.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\ncnn\ncnn.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\ncnn\ncnnConfig.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\ncnn-android-vulkan\x86\lib\cmake\ncnn\ncnnConfigVersion.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\opencv-mobile-4.10.0-android\sdk\native\jni\abi-x86\OpenCVConfig.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\opencv-mobile-4.10.0-android\sdk\native\jni\abi-x86\OpenCVModules-release.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\opencv-mobile-4.10.0-android\sdk\native\jni\abi-x86\OpenCVModules.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\opencv-mobile-4.10.0-android\sdk\native\jni\OpenCVConfig-version.cmake
+C:\Users\Guru\AndroidStudioProjects\VisionV4\app\src\main\jni\opencv-mobile-4.10.0-android\sdk\native\jni\OpenCVConfig.cmake

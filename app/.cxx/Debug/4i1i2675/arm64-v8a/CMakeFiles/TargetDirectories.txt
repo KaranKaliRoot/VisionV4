@@ -1,0 +1,3 @@
+C:/Users/Guru/AndroidStudioProjects/VisionV4/app/.cxx/Debug/4i1i2675/arm64-v8a/CMakeFiles/yolo26ncnn.dir
+C:/Users/Guru/AndroidStudioProjects/VisionV4/app/.cxx/Debug/4i1i2675/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Guru/AndroidStudioProjects/VisionV4/app/.cxx/Debug/4i1i2675/arm64-v8a/CMakeFiles/rebuild_cache.dir

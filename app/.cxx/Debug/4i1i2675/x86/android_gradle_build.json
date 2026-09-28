@@ -1,0 +1,51 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\ncnn-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfigVersion.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\opencv-mobile-4.10.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\opencv-mobile-4.10.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\opencv-mobile-4.10.0-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\opencv-mobile-4.10.0-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\src\\main\\jni\\opencv-mobile-4.10.0-android\\sdk\\native\\jni\\OpenCVConfig.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\.cxx\\Debug\\4i1i2675\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\.cxx\\Debug\\4i1i2675\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolo26ncnn::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "yolo26ncnn",
+      "output": "C:\\Users\\Guru\\AndroidStudioProjects\\VisionV4\\app\\build\\intermediates\\cxx\\Debug\\4i1i2675\\obj\\x86\\libyolo26ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Guru\\AppData\\Local\\Android\\Sdk\\ndk\\28.2.13676358\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
